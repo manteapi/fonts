@@ -1,2 +1,2 @@
-# fonts
-Fonts &amp; icons
+# i3
+i3 configuration
